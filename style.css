@@ -1,0 +1,45 @@
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+#top_marking
+{
+    text-align: left;
+}
+#ai_mario_game
+{
+    display: inline;
+}
+#instructions
+{
+    font-size: 25px;
+    float: right;
+    border: 1px solid white;
+}
+#start
+{
+    font-size: 30px;
+    border: 2px solid red;
+}
+#credits
+{
+    margin: 0px;
+    background: white;
+    line-height: 2;
+    font-size: 20px;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+#instruct
+{
+    font-size: 25px;
+}
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
